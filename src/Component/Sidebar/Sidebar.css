@@ -1,0 +1,12 @@
+.sidebar{
+    color : red;
+    background-color: blueviolet;
+    width: 25rem;
+}
+.menue{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    border: "1px soild red"
+
+}
